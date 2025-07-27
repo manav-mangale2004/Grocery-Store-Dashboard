@@ -1,54 +1,86 @@
-# 📊 Store Data Analysis Dashboard – Power BI Project
+<h1 align="center">🛒 Superstore Sales Dashboard – Power BI Project</h1>
 
-Welcome to my Power BI project where I developed a dynamic and interactive **Store Data Analysis Dashboard** to explore sales data and uncover key business insights. This project allowed me to enhance my skills in data visualization, storytelling, and dashboard design.
+<p align="center">
+  📊 A powerful and interactive sales analysis dashboard built using Power BI.<br>
+  Gain insights into sales, profit, customer segments, and more with clean visuals & storytelling.
+</p>
 
 ---
 
-## 🔍 Project Overview
+## 📌 Project Overview
 
-This dashboard was created to analyze store data effectively, focusing on:
+This Power BI dashboard provides a comprehensive breakdown of sales performance and profitability across three major product categories:
 
-- 📈 **Sales trends over time**
-- 🛒 **Product category performance**
-- 👥 **Customer behavior insights**
-- 📊 **KPIs like revenue, profit, and order count**
+- 🗂️ **Office Supplies**
+- 🪑 **Furniture**
+- 💻 **Technology**
+
+It enables users to slice and filter data interactively, exploring:
+
+✔️ Business trends  
+✔️ Regional comparisons  
+✔️ Customer behavior patterns  
+
+> 🔍 **Objective**: Deliver actionable insights through a clean, intuitive dashboard for better decision-making.
 
 ---
 
 ## ✅ Key Features
 
-- 🎨 Professionally designed and structured dashboard
-- 🔄 Interactive slicers and filters for user-driven analysis
-- 📚 Visual storytelling through charts and graphs
-- 🧮 Custom KPIs and metrics using DAX
-- 🧹 Cleaned and transformed data using Power Query
+| Feature | Description |
+|--------|-------------|
+| 📊 **Category-wise Sales & Profit** | Visualize how each category contributes to overall revenue. |
+| 🌍 **Regional & Segment-wise Analysis** | Understand performance by customer segments and locations. |
+| 📈 **Trend Visualizations** | Explore sales trends with line, bar, and pie charts. |
+| 🔄 **Dynamic Filters** | Use slicers for Category, Region, and Segment filtering. |
+| 📌 **KPI Indicators** | Track metrics like Total Sales, Profit, and Profit Margin. |
 
 ---
 
-## 🛠️ Tools & Technologies
+## 💡 Skills Demonstrated
 
-- **Power BI** – For dashboard creation and data visualization  
-- **Power Query** – For data transformation and preparation  
-- **DAX (Data Analysis Expressions)** – For creating measures and calculated columns
-
----
-
-## 📌 Skills Gained
-
-- 💡 Dashboard design best practices  
-- 🔍 Data modeling and cleaning techniques  
-- 📊 Business data analysis and storytelling  
-- 🧠 Use of advanced features like slicers, KPIs, DAX formulas  
+- 🎨 **Power BI Dashboard Design** – Clean layout & intuitive interface  
+- 🧹 **Power Query** – Transformed and cleaned raw sales data  
+- 🧠 **DAX (Data Analysis Expressions)** – Created advanced calculated measures  
+- 📖 **Data Storytelling** – Conveyed business insights through compelling visuals
 
 ---
 
-## 💬 Feedback
+## 🛠 Tools & Technologies
 
-I'm always open to feedback and suggestions to improve. Feel free to explore this project and share your thoughts!
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-DAX-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ETL-Power%20Query-green?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🔖 Tags
+## 📁 Dataset
 
-`#PowerBI` `#DataAnalysis` `#Dashboard` `#DataVisualization` `#PowerQuery` `#DAX` `#StoreDataAnalysis` `#BusinessIntelligence` `#LearningByDoing`
+The dataset used is a **sample Superstore Sales dataset**, widely utilized for BI projects and dashboards.  
+It includes data on:
 
+- Orders and transactions  
+- Sales and profit figures  
+- Customer and shipping details  
+- Geographic segmentation  
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  📧 <strong>Email:</strong> <a href="mailto:mangalemanav8@gmail.com">mangalemanav8@gmail.com</a><br>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/manav-mangale-085a55318/">Manav Mangale</a>
+</p>
+
+---
+
+## 📌 Tags / Keywords
+
+<p align="center">
+  <code>#PowerBI</code> <code>#SalesDashboard</code> <code>#SuperstoreSales</code>  
+  <code>#DataAnalytics</code> <code>#PowerQuery</code> <code>#DAX</code>  
+  <code>#DashboardDesign</code> <code>#BusinessIntelligence</code> <code>#DataVisualization</code>
+</p>
